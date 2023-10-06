@@ -1,0 +1,7 @@
+.img{
+    height: 400px;
+    max-width: 350px;
+}
+.carousel-item > img{
+    height: 400px;
+}
